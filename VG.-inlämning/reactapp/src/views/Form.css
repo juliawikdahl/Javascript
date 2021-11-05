@@ -1,0 +1,26 @@
+
+.h1 {
+    color: rgb(58, 57, 57);
+    font-size: 30px;
+    font-family:sans-serif;
+  
+  }
+  
+  .btn-secondary {
+  border-radius: 5px;
+  height: 40px;
+  width: 300px;
+  
+  
+  }
+  
+  #Myform {
+    background-color: rgba(170, 221, 170, 0.795);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 1px 1px 5px 1px #0201015b;
+  
+  }
+  
